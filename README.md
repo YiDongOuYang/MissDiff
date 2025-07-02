@@ -1,4 +1,4 @@
-# MissDiff
+# MissDiff: Training Diffusion Models on Tabular Data with Missing Values
 
 This repo contains the pytorch code for experiments in the paper [MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://arxiv.org/abs/2307.00467)
 
